@@ -65,7 +65,7 @@ const Contato = () => {
           />
           <textarea
             className={styles.formInput}
-            placeholder="Digite sua mensagem"
+            placeholder="Digite aqui sua mensagem"
             onChange={handleInputMensagem}
             value={mensagem}
           />
