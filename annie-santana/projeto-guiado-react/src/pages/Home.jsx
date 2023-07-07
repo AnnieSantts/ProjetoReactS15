@@ -8,7 +8,7 @@ import styles from '../styles/pages/home.module.css'
 const Home = () => {
   return (
     <>
-      <Header title="Meu perfil" image={home} />
+      <Header title=" Perfil" image={home} />
       <div className={styles.homeContainer}>
         <div className={styles.cardContainer}>
           <Sparkle size={150} color='black' weight='thin' />
